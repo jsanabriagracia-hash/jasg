@@ -5,3 +5,5 @@ Interdisciplinary Ph.D. researcher trained in organometallic, computational, and
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jasgchemist)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:j.sanabriagracia@gmail.com)
 [![CV](https://img.shields.io/badge/CV-Download-000000?style=flat&logo=readdotcv&logoColor=white)](JSanabria_CV.pdf)
+
+![Jose A. Sanabria-Gracia](My_Picture.jpg)
