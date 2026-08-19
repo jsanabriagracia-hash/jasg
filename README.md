@@ -1,9 +1,3 @@
----
-layouts: default
-title: José A. Sanabria-Gracia
----
-
-
 <img src="My_Picture.JPG" alt="José A. Sanabria-Gracia" width="200">
 
 ## About Me: 
