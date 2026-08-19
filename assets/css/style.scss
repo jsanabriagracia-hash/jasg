@@ -139,3 +139,22 @@ footer, .site-footer {
     position: relative;
   }
 }
+
+/* Sidebar Folder Styling */
+.sidebar-links .folder-title {
+  font-weight: bold;
+  color: #fff; /* Match your sidebar heading color */
+  display: block;
+  margin-top: 10px;
+  margin-bottom: 5px;
+}
+
+.sidebar-links .folder-content {
+  list-style: none;
+  padding-left: 15px; /* Indents the nested links */
+  margin: 0;
+}
+
+.sidebar-links .folder-content li {
+  margin-bottom: 8px;
+}
