@@ -18,15 +18,24 @@
 
       <ul class="sidebar-links">
         <li><a href="{{ '/' | relative_url }}">Home</a></li>
-        <li><a href="{{ '/research/fe-ppp-hydroboration.html' | relative_url }}">Heterometallic NiFe Sulfur Cluster for CO2RR</a></li>
-        <li><a href="{{ '/research/zr-co-bimetallic.html' | relative_url }}">Heterobimetallic ZrCo for C-H Bond Activation</a></li>
-        <li><a href="{{ '/research/computational-benchmarking.html' | relative_url }}">Comp. Benchmarking</a></li>
+
+        <!-- Interactive Research Folder -->
+        <li>
+          <details open>
+            <summary class="folder-title">📁 Research</summary>
+            <ul class="folder-content">
+              <li><a href="{{ '/research/fe-ppp-hydroboration.html' | relative_url }}">Heterometallic NiFe Sulfur Cluster for CO2RR</a></li>
+              <li><a href="{{ '/research/zr-co-bimetallic.html' | relative_url }}">Heterobimetallic ZrCo for C-H Bond Activation</a></li>
+              <li><a href="{{ '/research/computational-benchmarking.html' | relative_url }}">Comp. Benchmarking</a></li>
+            </ul>
+          </details>
+        </li>
       </ul>
 
       <div class="sidebar-contact">
         <a href="https://www.linkedin.com/in/jasgchemist">LinkedIn</a>
         <a href="mailto:j.sanabriagracia@gmail.com">Gmail</a>
-        <a href="JSanabria_CV.pdf">CV</a>
+        <a href="{{ '/JSanabria_CV.pdf' | relative_url }}">CV</a>
       </div>
     </nav>
 
