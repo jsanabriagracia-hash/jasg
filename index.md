@@ -4,7 +4,7 @@ title: Home
 ---
 # Welcome
 
-## About Me: 
+## Professional Summary: 
 Interdisciplinary Ph.D. researcher trained in organometallic, computational, and bioinorganic chemistry, with hands-on experience spanning synthesis, spectroscopy, electronic structure theory, and data-driven analysis. Proven ability to integrate experimental and computational approaches across chemistry, biology, and materials-related systems. NSF GRFP awardee with a strong interest in collaborative research environments where chemistry supports broader, multidisciplinary solutions to complex scientific and technological problems.
 
 ## Links: 
@@ -12,3 +12,4 @@ Interdisciplinary Ph.D. researcher trained in organometallic, computational, and
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:j.sanabriagracia@gmail.com)
 [![CV](https://img.shields.io/badge/CV-Download-000000?style=flat&logo=readdotcv&logoColor=white)](JSanabria_CV.pdf)
 
+## Autobiography:
