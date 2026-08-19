@@ -1,3 +1,6 @@
+baseurl: "/jasg"
+url: "https://jsanabriagracia-hash.github.io"
+
 title: José A. Sanabria-Gracia 
 description: PhD Candidate in Chemistry (Bioinorganic/Organometallics/Computational)
 theme: jekyll-theme-minimal
