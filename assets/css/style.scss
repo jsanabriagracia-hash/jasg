@@ -1,0 +1,65 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+/* ===== JASG Portfolio Theme — Navy & Gold ===== */
+
+body {
+  background-color: #0a1128;
+  color: #e8e2d0;
+  font-family: -apple-system, "Helvetica Neue", Arial, sans-serif;
+}
+
+/* Header / Name */
+h1, .header h1 {
+  color: #d4af37;
+  font-weight: 700;
+}
+
+h2, h3 {
+  color: #d4af37;
+  border-bottom: 1px solid #3a4a6b;
+  padding-bottom: 6px;
+}
+
+/* Body text */
+p, li {
+  color: #cfd3dc;
+  line-height: 1.6;
+}
+
+/* Links */
+a {
+  color: #7ea6d9;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #d4af37;
+  text-decoration: underline;
+}
+
+/* Sidebar (name/title area, if theme has one) */
+.wrapper, .sidebar {
+  background-color: #0a1128;
+}
+
+/* Badge/button links (LinkedIn, Gmail, CV) */
+img[alt="LinkedIn"], img[alt="Gmail"], img[alt="CV"] {
+  border-radius: 4px;
+  margin-right: 6px;
+}
+
+/* Profile photo */
+img[alt="José A. Sanabria-Gracia"] {
+  border-radius: 8px;
+  border: 2px solid #d4af37;
+  box-shadow: 0 4px 12px rgba(0,0,0,0.4);
+}
+
+/* Footer text */
+footer, .site-footer {
+  color: #7a8296;
+  font-size: 0.85em;
+}
