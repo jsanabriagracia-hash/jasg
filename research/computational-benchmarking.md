@@ -1,8 +1,8 @@
 ---
 layout: default
-title: Heterometallic NiFe Sulfur Clusters for CO2RR
+title: Comp. Benchmarking
 ---
 
-# Heterometallic NiFe Sulfur Clusters for CO2RR
+# Comp. Benchmarking
 
 [Project summary — system, approach, key findings]
