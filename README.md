@@ -1,5 +1,5 @@
 ---
-layout: default
+layouts: default
 title: José A. Sanabria-Gracia
 ---
 
