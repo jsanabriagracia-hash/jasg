@@ -1,8 +1,8 @@
 ---
 layout: default
-title: Heterometallic NiFe Sulfur Clusters for CO2RR
+title: Heterobimetallic ZrCo for C-H Bond Activation
 ---
 
-# Heterometallic NiFe Sulfur Clusters for CO2RR
+# Heterobimetallic ZrCo for C-H Bond Activation
 
 [Project summary — system, approach, key findings]
