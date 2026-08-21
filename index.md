@@ -21,3 +21,12 @@ Jose A. Sanabria-Gracia is a Ph.D. candidate in Chemistry at The Ohio State Univ
 Jose's doctoral research spans bioinorganic, organometallic, and computational chemistry, focusing on topics such as CO₂ reduction reactions (CO2RR), C–H functionalization, and heterobimetallic cooperativity. His work is supported by an NSF Graduate Research Fellowship (NSF-GRFP). He combines hands-on synthetic chemistry with computational modeling in ORCA, ranging from DFT and NEB transition-state calculations to EPR and Mössbauer spectroscopy benchmarking. In addition to the NSF-GRFP, Jose received a special recognition from the Senate of Puerto Rico for his work as a science teacher during the 2019–2020 academic year.
 
 Outside the lab, Jose enjoys music and singing. He had the honor of singing alongside cellist Yo-Yo Ma during one of his concerts in San Juan, Puerto Rico. He also enjoys playing softball, volleyball, and table tennis.
+
+## Publications: 
+
+Sanabria-Gracia, J. A. *et al.* "[C-H Bond Activation and Functionalization Enabled by a Zr/Co Bimetallic System Through Metal-Metal Cooperativity]." *Manuscript in preparation, incorporating advisor feedback.*
+
+Lewis, L. C.; Sanabria-Gracia, J. A.; Lee, Y.; Jenkins, A. J.; Shafaat, H. S. Electronic Isomerism in a Heterometallic Nickel-Iron-Sulfur Cluster Models Substrate Binding and Cyanide Inhibition of Carbon Monoxide Dehydrogenase. Chem. Sci. 2024, 15 (16), 5916–5928. https://doi.org/10.1039/d4sc00023d.
+
+
+
