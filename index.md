@@ -13,6 +13,7 @@ Interdisciplinary Ph.D. researcher trained in organometallic, computational, and
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jasgchemist)
 [![Email](https://img.shields.io/badge/Email-BB0000?style=flat&logo=maildotru&logoColor=white)](mailto:sanabria.20@osu.edu)
 [![CV](https://img.shields.io/badge/CV-Download-000000?style=flat&logo=readdotcv&logoColor=white)](JSanabria_CV.pdf)
+[![Paper](https://img.shields.io/badge/Publication-Chemical_Science-1E90FF?style=flat&logo=googlescholar&logoColor=white)](https://doi.org/10.1039/d4sc00023d)
 
 ## Biography:
 Jose A. Sanabria-Gracia is a Ph.D. candidate in Chemistry at The Ohio State University, working in the Thomas Lab under the advisement of Professor Christine Thomas. Originally from Puerto Rico, he earned his B.S. in Chemistry from the University of Puerto Rico at Cayey (2014–2019), where he conducted undergraduate research spanning computational chemistry, inorganic synthesis, and biochemistry including DFT studies of lithium-sulfur battery cathodes and coordination complexes with chemotherapeutic potential, working in the research groups of Professor Juan Santana and Professor Ramón Hernández.
