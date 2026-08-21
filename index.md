@@ -2,7 +2,9 @@
 layout: default
 title: Home
 ---
-# Welcome
+## Welcome
+
+Thanks for stopping by! Feel free to explore the tabs to learn more about my research projects, essays, and background.
 
 ## Professional Summary: 
 Interdisciplinary Ph.D. researcher trained in organometallic, computational, and bioinorganic chemistry, with hands-on experience spanning synthesis, spectroscopy, electronic structure theory, and data-driven analysis. Proven ability to integrate experimental and computational approaches across chemistry, biology, and materials-related systems. NSF GRFP awardee with a strong interest in collaborative research environments where chemistry supports broader, multidisciplinary solutions to complex scientific and technological problems.
