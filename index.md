@@ -2,7 +2,7 @@
 layout: default
 title: Home
 ---
-## Welcome
+# Welcome
 
 Thanks for stopping by! Feel free to explore the tabs to learn more about my research projects, essays, and background.
 
